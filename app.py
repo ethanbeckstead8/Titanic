@@ -47,6 +47,6 @@ with tab2:
     st.write(f"Survival Rate: {survival_rate:.2f}%")
 
 
-    st.write("Filtered Table (based on things set on the left)", data)
+    st.write("Filtered Table (For verification of Survival Rate calculations and Filters)", data)
 
 st.markdown("Data from SKLearn (Titanic Dataset)")
