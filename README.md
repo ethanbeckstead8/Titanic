@@ -3,7 +3,7 @@
 
 In this lab you will be creating and deploying a Streamlit app based on the titanic dataset. Once deployed, please include the url for your app in the README below:
 
-[Here is my app]([(https://titanic-beckstead-386.streamlit.app/)])
+[Here is my app](['https://titanic-beckstead-386.streamlit.app/'])
 
 ### Requirements
 * The data must be cached for faster processing.
